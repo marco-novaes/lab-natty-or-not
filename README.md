@@ -21,7 +21,7 @@ Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida
 Vídeo falando sobre Ias Generativas e seu uso no dia a dia
 
 ## 🤖 Tecnologias Utilizadas
-- [ChatGpt]:(https://chatgpt.com/)
+- ChatGpt:(https://chatgpt.com/
 - Lenordo AI: https://leonardo.ai/
 - D-ID:https://www.d-id.com/
 - Canva: https://www.canva.com/
