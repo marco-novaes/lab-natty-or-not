@@ -21,7 +21,7 @@ Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida
 Vídeo falando sobre Ias Generativas e seu uso no dia a dia
 
 ## 🤖 Tecnologias Utilizadas
-- ChatGpt: https://chatgpt.com/
+- [ChatGpt]:(https://chatgpt.com/)
 - Lenordo AI: https://leonardo.ai/
 - D-ID:https://www.d-id.com/
 - Canva: https://www.canva.com/
@@ -30,7 +30,7 @@ Vídeo falando sobre Ias Generativas e seu uso no dia a dia
 Utilizei o ChatGpt para criar os textos do roteiro do vídeo, Leonardo AI para gerar a imagem do meu apresentador e D-ID para unir o texto com a imagem e voz com movimentação da imagem.
 
 ## 🚀 Resultados
-https://www.canva.com/design/DAGHvxkUVOM/klRx74u7DLuOsTldVLoMNg/watch?utm_content=DAGHvxkUVOM&utm_campaign=designshare&utm_medium=link&utm_source=editor
+(https://www.canva.com/design/DAGHvxkUVOM/klRx74u7DLuOsTldVLoMNg/watch?utm_content=DAGHvxkUVOM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
